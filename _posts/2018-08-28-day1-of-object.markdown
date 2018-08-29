@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 1 of ATLAS"
+title:  "Fantacy Device"
 date:   2018-08-28 19:38:53 -0600
 categories: Object
 ---
