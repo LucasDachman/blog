@@ -20,10 +20,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Colorado Boulder, College of Engineering. I study Technology Arts
   and Media (TAM) as well as Computer Science. My interests include
   Software Development, Design and Music.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://lucasdachman.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lucasdachman 
-repository: lucasdachman/ldach-blog
+repository: lucasdachman/blog
 
 # Build settings
 #markdown: kramdown
