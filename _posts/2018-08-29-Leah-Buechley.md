@@ -2,7 +2,7 @@
 layout: post
 title:  "A Talk by Dr Leah Buechley"
 date:   2018-08-29 21:00:00 -0600
-categories: Object
+categories: [ Atlas Object ]
 ---
 
 This week I had the pleasure of seeing Dr Leah Buechley talk at the ATLAS Institute. Dr Buechley is the creator of the [LillyPad](http://www.geeetech.com/wiki/index.php/Arduino_LilyPad) Arduino Kit. She is known for her work with paper based computing as well as other E-textiles. She directed the High-Low Tech research group at MIT where she worked as an associate professor.
