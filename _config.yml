@@ -26,7 +26,7 @@ github_username: lucasdachman
 repository: lucasdachman/blog
 
 # Build settings
-#markdown: kramdown
+markdown: github
 remote_theme: broccolini/swiss
 #theme: minima
 plugins:
