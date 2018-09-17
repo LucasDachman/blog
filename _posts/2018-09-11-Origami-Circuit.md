@@ -2,7 +2,7 @@
 layout: post
 title:  "Origami Circuit"
 date:   2018-09-10 06:00:00 -0600
-categories: [ Atlas Object ]
+categories: [ Atlas-Object ]
 ---
 
 <img src="{{ site.baseurl }}/assets/image/Origami-Circuit/Origami-Circuit.gif" alt='origami ciruit gif' style="width:600px;"/>
