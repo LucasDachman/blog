@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img style="width:300px" src="{{ site.baseurl }}/assets/image/Lucas.jpg"/>
+<img style="width:300px" src="{{ site.baseurl }}/assets/image/Lucas.jpg" alt="Lucas"/>
 
 I am an Engineering student at the University of Colorado Bouler. I study Technology Art and Media (TAM) and Computer Science. My interests include Software Dev, Web Design, Physical Computing, Mobile Applications, Music Technology and more...
 
