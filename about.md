@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img style="width:300px" src="{{ site.baseurl }}/assets/image/Lucas.jpg"/>
 
-I am a student, maker and engineer. I study at the University of
-Colorado Boulder, College of Engineering. I study Technology Arts
-and Media (TAM) as well as Computer Science. My interests include
-Software Development, Design and Music.
+I am an Engineering student at the University of Colorado Bouler. I study Technology Art and Media (TAM) and Computer Science. My interests include Software Dev, Web Design, Physical Computing, Mobile Applications, Music Technology and more...
 
-You can find the source code for my projects at **GitHub**:
+**GitHub:**
 [github.com/LucasDachman](https://github.com/LucasDachman)
 
 **My Resume:**
@@ -19,5 +17,5 @@ You can find the source code for my projects at **GitHub**:
 [linkedin.com/in/lucasdachman/](https://www.linkedin.com/in/lucasdachman/)
 
 
-This site was made with jekyll and adapted from the Swiss theme.
-[broccolini/swiss](https://github.com/broccolini/swiss)
+<sub>This site was made with jekyll and adapted from the Swiss theme.
+[broccolini/swiss](https://github.com/broccolini/swiss)</sub>
