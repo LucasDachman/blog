@@ -27,7 +27,9 @@ I want to make an XY midi controller that senses the position of your foot on a 
 - [Arduino Midi Library](https://github.com/FortySevenEffects/arduino_midi_library/)
 - [Sparkfun ZX Sensor Tutorial](https://learn.sparkfun.com/tutorials/zx-distance-and-gesture-sensor-smd-hookup-guide)
 
-## Extra Challenges
+## Possible Extra Features 
 
 - Connect controller with WiFi
 - Build a synth in p5.js
+- Use a third position axis
+- Make two (one for each foot)
