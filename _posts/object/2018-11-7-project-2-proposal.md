@@ -7,7 +7,7 @@ categories: [ Atlas-Object ]
 
 # Wearable Midi Controller
 
-I want to make an XY midi controller that senses the position of your foot on an XY plane. The controller would connect to a software synth through USB midi. Each axis will be able to control a parameter in the software.
+I want to make an XY midi controller that senses the position of your foot on a two dimensional plane. The controller would connect to a software synth through USB midi. Each axis will be able to control a parameter in the software. This would allow a musician to change parameters while still using two hands on an instrument.
 
 <img src="{{ site.baseurl }}/assets/image/obj-proj-2/midi-foot.png" alt="midi foot" style="width:600px;"/>
 
@@ -26,3 +26,8 @@ I want to make an XY midi controller that senses the position of your foot on an
 
 - [Arduino Midi Library](https://github.com/FortySevenEffects/arduino_midi_library/)
 - [Sparkfun ZX Sensor Tutorial](https://learn.sparkfun.com/tutorials/zx-distance-and-gesture-sensor-smd-hookup-guide)
+
+## Extra Challenges
+
+- Connect controller with WiFi
+- Build a synth in p5.js
