@@ -7,13 +7,13 @@ permalink: /about/
 
 I am an Engineering student at the University of Colorado Bouler. I study Technology Art and Media (TAM) and Computer Science. My interests include Software Dev, Web Design, Physical Computing, Mobile Applications, Music Technology and more...
 
+**Portfolio Website:**
+[lucasdachman.github.io/lucasdachman/](https://lucasdachman.github.io/)
+
 **GitHub:**
 [github.com/LucasDachman](https://github.com/LucasDachman)
 
-**My Resume:**
-[lucasdachman.github.io/lucasdachman/](https://lucasdachman.github.io/lucasdachman/)
-
-**My LinkedIn:**
+**LinkedIn:**
 [linkedin.com/in/lucasdachman/](https://www.linkedin.com/in/lucasdachman/)
 
 
