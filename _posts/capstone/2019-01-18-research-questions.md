@@ -111,6 +111,6 @@ It turns out I have some similar reasons for interest in these domains. I like t
 
 ## Research Questions
 
-- What place does modern technology (computers) take in the music making process?
+- What place do modern technologies (computers) take in the music making process?
 - How can web technologies be applied to music production?
 - What are practical alternatives to buttons and knobs? How can gestures and movement be used in the music making process?
