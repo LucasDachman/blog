@@ -5,6 +5,8 @@ date:   2019-01-18 4:38:53 -0600
 categories: [ Capstone ]
 ---
 
+<small>Revision 1 –– 30 Jan 2019
+
 ## Past Projects
 
 Find my projects here: [lucasdachman.github.io/works.html](https://lucasdachman.github.io/works.html)
@@ -82,6 +84,7 @@ It turns out I have some similar reasons for interest in these domains. I like t
 
 ### Experimental Instruments / Controllers
 
+- [MIT Media Lab, Tangible Media Group –– Audiopad](http://tangible.media.mit.edu/project/audiopad/)
 - [DIY Synth stuff](https://syntherjack.net/how-to-start-synth-diy/)
 - [This dude who made his own MIDI controllers](https://www.musiconerd.com/single-post/2017/07/04/This-is-how-I-build-my-own-MIDI-controllers-for-less-than-US4000-and-how-you-can-build-yours-too-2)
 - This wearable midi controller that is worn as a ring
@@ -109,8 +112,21 @@ It turns out I have some similar reasons for interest in these domains. I like t
 - [Novation](https://en.wikipedia.org/wiki/Novation_Digital_Music_Systems) - A company that makes some awesome music gear
 - [Korg](https://en.wikipedia.org/wiki/Korg) - A company that makes awesome music gear (I like the [Korg Volca FM](https://www.youtube.com/watch?v=nUjc2RXhR80))
 
+### Research / Textual information
+
+- [Mikkel Bech-Hansen, "Musical Instrument Interfaces"](http://www.aprja.net/musical-instrument-interfaces/)
+- [Dr.Godfried-Willem Raes, "Gesture controlled virtual musical instruments"](https://logosfoundation.org/ii/gesture-instrument.html)
+- [The reacTable: Exploring the Synergy between Live Music Performance and Tabletop Tangible Interfaces](https://www.researchgate.net/publication/221308523_The_reacTable_Exploring_the_Synergy_between_Live_Music_Performance_and_Tabletop_Tangible_Interfaces)
+- [International Conference on New Interfaces for Musical Expression (NIME)](http://www.nime.org/archives/)
+- [mixiTUI: A Tangible Sequencer for Electronic Live Performances](https://www.researchgate.net/publication/215439152_mixiTUI_a_tangible_sequencer_for_electronic_live_performances)
+
 ## Research Questions
 
-- What place do modern technologies (computers) take in the music making process?
-- How can web technologies be applied to music production?
-- What are practical alternatives to buttons and knobs? How can gestures and movement be used in the music making process?
+- <s>What place do modern technologies (computers) take in the music making process?</s>
+- <s>How can web technologies be applied to music production?</s>
+- <s>What are practical alternatives to buttons and knobs? How can gestures and movement be used in the music making process?</s>
+
+
+- What makes new instruments novel or successful?
+- How can note triggering and sound manipulation (on an electronic instrument) be combined into a single gesture to improve expression during performance?
+- How can visual or haptic feedback from an electronic instrument improve the creative process of a music producer?
