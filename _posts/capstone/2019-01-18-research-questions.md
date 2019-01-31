@@ -128,5 +128,6 @@ It turns out I have some similar reasons for interest in these domains. I like t
 
 
 - What makes new instruments novel or successful?
+- What is the smallest set of controls that can be used to make an interesting electronic instrument?
 - How can note triggering and sound manipulation (on an electronic instrument) be combined into a single gesture to improve expression during performance?
 - How can visual or haptic feedback from an electronic instrument improve the creative process of a music producer?
