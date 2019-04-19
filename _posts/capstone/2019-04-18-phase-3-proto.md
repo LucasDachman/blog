@@ -38,4 +38,7 @@ On how to separate controls, there are a few options:
 
 The control set is inspired by FL Studio's 3xOsc. The synth includes 3 oscillators, each with level and pitch controls. All three oscillators are routed through amp, filter modules. The amp and filter can be modulated by the envelope which includes attack and release times. Finally, it as FX sends which correspond to global effects which are not shown. I used the 3xOsc with only my chosen controls to create some nice sounding presets. 
 
+Here are some sounds I recorded with 3xOsc and random arpeggiators.
+<iframe width="100%" height="265" src="https://clyp.it/0yygqj04/widget" frameborder="0"></iframe>
+
 <img src="{{ site.baseurl }}/assets/image/capstone-1/3xosc.png" alt="screenshot" style="width:800px;"/>
